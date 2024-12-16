@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   description: siteConfig.description,
 };
 
+<h1>permisi bang mau ngetes forking</h1>
+<h3>serem amat isi nya cok</h3>
+
 export default function Home() {
   return (
     <>
